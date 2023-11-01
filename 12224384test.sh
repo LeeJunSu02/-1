@@ -1,6 +1,6 @@
-cd  /Users/junsu/Desktop/oss과제
+
 #!/bin/bash
-$ ./test.sh u.item u.data u.user 
+
 
 echo "--------------------------"
 echo "User Name: LeeJunSu"
