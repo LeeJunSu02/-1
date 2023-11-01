@@ -10,7 +10,7 @@
 #실행방법
 
 -1.터미널 환경에서 경로를 12224384test.sh가 있는 경로로 설정.
--2./12224384test.sh u.item u.data u.user을 입력함으로써 실행함.
+-2. ./12224384test.sh u.item u.data u.user을 입력함으로써 실행함.
 -만약 실행되지 않는다면 
 -xattr -d com.apple.quarantine 12224384test.sh 
 -chmod +x 12224384test.sh
