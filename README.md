@@ -8,10 +8,13 @@
 
 #스크립트 사용법과 주요 기능
 #실행방법
-터미널 환경에서 경로를 12224384test.sh가 있는 경로로 설정.
+
+1.터미널 환경에서 경로를 12224384test.sh가 있는 경로로 설정.
+2./12224384test.sh u.item u.data u.user을 입력함으로써 실행함.
+만약 실행되지 않는다면 
 xattr -d com.apple.quarantine 12224384test.sh 
 chmod +x 12224384test.sh
-./12224384test.sh u.item u.data u.user을 입력함으로써 실행함.
+입력 후 다시 2번 실행.
 
 #사용방법
 제시된 코드를 입력시 1~9 사이의 숫자를 입력할 수 있음.
