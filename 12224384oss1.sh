@@ -4,7 +4,7 @@ $ ./test.sh u.item u.data u.user
 
 echo "--------------------------"
 echo "User Name: LeeJunSu"
-echo "Student Number: 1222”4384"
+echo "Student Number: 12224384"
 echo "[ MENU ]"
 echo "1. Get the data of the movie identified by a specific 'movie id' from 'u.item'"
 echo "2. Get the data of action genre movies from 'u.item'"
